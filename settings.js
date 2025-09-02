@@ -10,8 +10,8 @@ const fs = require('fs')
 
 global.botname = "𝐗͢𝐌͡𝐎͢𝐃͡𝐒 𝐈͢𝐍͜͢𝐅͢𝐈ͯ𝐍𝐈𝐓𝐘 𝐕͢𝟏.𝟎"
 global.version = "1.0"
-global.owner = "6285173259367"
-global.numberbot = ""
+global.owner = "6283820720742"
+global.numberbot = "6283820720742"
 global.footer = "𝙳𝙰𝙽𝚉𝚈 𝙸𝚂 𝙷𝙴𝚁𝙴"
 global.title = "© ᴅ𝙰𝙽𝚉𝚈 𝙳𝙴𝚅"
 global.website = "https://whatsapp.com/channel/0029Vajenbo0LKZKlzkxH30Q"
